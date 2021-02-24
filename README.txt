@@ -57,3 +57,7 @@ common_ancestor_2
 --------------------------------------------------------------------
 This does the same as common_ancestor, but instead of sampling from multiple trees, it only samples from one tree.
 Another (hardcoded) variable is the number of points a tree must have (at minimum) in the order to take a sample.
+
+common_ancestor_3
+-------------------------------------------------------------------------------------------------------------------------------------------
+This does the same as common_ancestor_2, but draws a partial tree also. This code is a work in progress.
