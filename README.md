@@ -1,4 +1,4 @@
-# Descriptions of applications written for Summer Research Scholarship 2021 - Alice Hankin
+# Descriptions of applications written for Summer Research Scholarship 2021
 
 The first programs (tree, hist, multitype, multitype_2, exptree) are all written in R Shiny. The links to the front-end are included here.
 The rest (common_ancestor, common_ancestor_2) are written in base R.
