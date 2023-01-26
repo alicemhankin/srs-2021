@@ -2,7 +2,7 @@
 
 The first programs (tree, hist, multitype, multitype_2, exptree) are all written in R Shiny. The links to the front-end are included here.
 The rest (common_ancestor, common_ancestor_2) are written in base R.
-Note that my report can be found in Final_Report.pdf
+Note that my report can be found in **Final_Report.pdf**.
 
 ### tree
 This program draws a random tree given some geometric offspring mean.
